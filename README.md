@@ -16,20 +16,6 @@ Second, despite the current strength of OpenAI's products, we place hope in the 
 We have designed several dimensions to compare AIlice with mainstream AI agents. These include:
 
 - **Multi-agents**:
-Whether problems are addressed through multi-agent dialogues. This can enhance fault tolerance.
-
-- **Dynamic Creation**:
-The ability to dynamically create agents during task execution. This helps to break down tasks into subtasks, reducing context consumption within agents.
-
-- **Interactive Calling**:
-Whether dynamically created agents can interact with their creators (callers). This improves fault tolerance for subtask failures and allows users to naturally participate as collaborators.
-
-- **Long Term Memory**:
-The technical solutions used for long-term memory. Enabling LLM to surpass its context window constraints and accomplish more complex tasks.
-
-- **Function Call Syntax**:
-The syntax for function calls. Diverse syntax supports provide LLM with more flexible ways of external interaction.
-
 - **Self-expansion**:
 Modules for self-expansion. Allowing the agent to build more functionalities for itself, avoiding the manual development of numerous external interaction modules.
 
